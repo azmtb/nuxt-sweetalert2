@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ImreC/nuxt-sweetalert2.git"
+    "url": "git+https://github.com/azmtb/nuxt-sweetalert2.git"
   },
   "keywords": [
     "nuxt",
@@ -18,11 +18,11 @@
   "author": "Imre Gelens",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ImreC/nuxt-sweetalert2/issues"
+    "url": "https://github.com/azmtb/nuxt-sweetalert2/issues"
   },
-  "homepage": "https://github.com/ImreC/nuxt-sweetalert2#readme",
+  "homepage": "https://github.com/azmtb/nuxt-sweetalert2#readme",
   "dependencies": {
-    "sweetalert2": "7.x"
+    "sweetalert2": "9.x"
   },
   "devDependencies": {
       "babel-core": "^6.26.3",
